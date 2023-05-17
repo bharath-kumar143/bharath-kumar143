@@ -11,9 +11,9 @@ Github profile
       
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCv4AEqi6Nd2TlxTRNS8xsCQ?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Bharath64181443?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbhimanyuRB1&screen_name=AbhimanyuRB1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Bharath64181443?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBharath64181443&screen_name=Bharath64181443)
 
-<p> <img src="https://komarev.com/ghpvc/?username=Abm32&label=Profile%20views&color=0e75b6&style=flat" alt="Abm32" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=bharat-kumar143&label=Profile%20views&color=0e75b6&style=flat" alt="bharat" /> </p>
       
 </div>
 
